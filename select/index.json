@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "リボン",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-06T15:26:32.507895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リボン - feat.桜井和寿(Mr.Children)",
+      "artist": "Tokyo Ska Paradise Orchestra feat. Kazutoshi Sakurai",
+      "has_synced": false,
+      "path": "select/01_リボン_-_feat.桜井和寿(Mr.Children)_Tokyo_Ska_Paradise_Orchestra_feat._Kazutoshi_Sakurai.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リボン - feat.桜井和寿(Mr.Children)",
+      "artist": "Tokyo Ska Paradise Orchestra, Kazutoshi Sakurai",
+      "has_synced": false,
+      "path": "select/02_リボン_-_feat.桜井和寿(Mr.Children)_Tokyo_Ska_Paradise_Orchestra,_Kazutoshi_Sakurai.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ribbon [リボン]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_Ribbon_[リボン]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "リボン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_リボン_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "リボン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_リボン_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "リボン - feat.桜井和寿(Mr.Children)",
+      "artist": "Tokyo Ska Paradise Orchestra",
+      "has_synced": true,
+      "path": "select/06_リボン_-_feat.桜井和寿(Mr.Children)_Tokyo_Ska_Paradise_Orchestra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リボン",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_リボン_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
